@@ -2,25 +2,25 @@
     "assets": [
         {
             "version": "1.0.0",
-            "filename": "Asset_256.pack",
+            "filename": "Assets_256.pack",
             "url": "https://github.com/H1emu/asset-pack/releases/download/v1.0.0/Assets_256.pack",
             "hash": "sha256:5a84cc05691c0e5978f5ba752d4c1178b925cd2cb5fbee0a1c048cb68e0a05cc"
         },
         {
             "version": "1.0.0",
-            "filename": "Asset_257.pack",
+            "filename": "Assets_257.pack",
             "url": "https://github.com/H1emu/asset-pack/releases/download/v1.0.0/Assets_257.pack",
             "hash": "sha256:0c30010ed67fad4489d40d1eb231b468b28bcd8b7a9fc24e4bc59296534836a0"
         },
         {
             "version": "1.0.0",
-            "filename": "Asset_258.pack",
+            "filename": "Assets_258.pack",
             "url": "https://github.com/H1emu/asset-pack/releases/download/v1.0.0/Assets_258.pack",
             "hash": "sha256:9ae7670613cdafd09c7ba5597e44b000f999a28ebc544c16f3a801454523a19d"
         },
         {
             "version": "1.0.0",
-            "filename": "Asset_259.pack",
+            "filename": "Assets_259.pack",
             "url": "https://github.com/H1emu/asset-pack/releases/download/v1.0.0/Assets_259.pack",
             "hash": "sha256:74bcca59ef64fca72e35eabb805660e6590f07d8688b5ba5ca5ce737293155e2"
         }
