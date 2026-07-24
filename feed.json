@@ -1,10 +1,10 @@
 {
     "assets": [
         {
-            "version": "1.0.2",
+            "version": "1.0.1",
             "filename": "Assets_256.pack",
-            "url": "https://github.com/H1emu/asset-pack/releases/download/v1.0.2/Assets_256.pack",
-            "hash": "sha256:5e2fc562bb4217a91a9ace9b21717ce9d60721191fa8ee04accae6e68b7e3022"
+            "url": "https://github.com/H1emu/asset-pack/releases/download/v1.0.1/Assets_256.pack",
+            "hash": "sha256:5E2FC562BB4217A91A9ACE9B21717CE9D60721191FA8EE04ACCAE6E68B7E3022"
         },
         {
             "version": "1.0.0",
